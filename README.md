@@ -828,9 +828,9 @@ Distributed under the MIT License. See `LICENSE` for full details.
 ## 📬 Contact
 
 **Mostafa Ahmed**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- GitHub: [@mostafa-hany11](https://github.com/mostafa-hany11)
+- LinkedIn: [linkedin.com/in/yourprofile](www.linkedin.com/in/mostafa-ahmed-0b2493243)
+- Email: nasefmostafa05@gmail.com
 
 ---
 
